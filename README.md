@@ -12,7 +12,9 @@ Datasets:
 https://www.kaggle.com/c/state-farm-distracted-driver-detection/data
 
 Training data: Contains 22,424 images in the training data separated into 10 labeled class folders. 
+
 Testing data: 79.7 thousand unlabeled images (tested for accuracy through kaggle submission).
+
 Size of each image given to us is 640 × 480 pixels.
 
 Here's a comprehensive explanation of what we did and our report too: 
